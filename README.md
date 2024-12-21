@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @noschkacntl
+- 👀 I’m interested in coding stuff (i like avalonia)
+- 🌱 I’m currently learning Java, C#, Python and JavaScript
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me: contact@nikas.coffee
+- 😄 Pronouns: any
+- ⚡ Fun fact: I'm like an inportant person at my school?
